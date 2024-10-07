@@ -2,9 +2,10 @@
 <resources>
     <!--[] -->
 
-    <!--[basic color] -->
+    <!--[basic color]
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    -->
 
     <!--[signup&login color] -->
     <color name="purple_200">#FFBB86FC</color>
